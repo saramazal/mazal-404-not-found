@@ -32,5 +32,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@saramazal](https://{github.com/saramazal})
-- Twitter [@mazalspace](https://{https://twitter.com/mazalspase})
+- GitHub [saramazal](https://{github.com/saramazal})
+- Twitter [mazalspace](https://{https://twitter.com/mazalspase})
