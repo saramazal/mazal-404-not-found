@@ -14,10 +14,12 @@
 ## Screenshot
 
 ![screenshot](https://github.com/saramazal/mazal-404-not-found/blob/main/404-not-found-mazal.png)
+![branch: first-mazal-solution](https://github.com/saramazal/mazal-404-not-found/blob/first-mazal-solution/404-mazal-page.png)
 
 ## Demo 
 
-[Demo](https://saramazal.github.io/mazal-404-not-found/)
+[Demo](https://404-mazal.netlify.app/)
+[Demo2](https://saramazal.github.io/mazal-404-not-found/)
 
 
 ### Built With
