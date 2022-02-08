@@ -13,18 +13,18 @@
 
 ## Screenshot
 
-![screenshot](https://github.com/)
+![screenshot](https://github.com/saramazal/mazal-404-not-found/blob/main/404-not-found-mazal.png)
 
 ## Demo 
 
-[Demo](https://)
+[Demo](https://saramazal.github.io/mazal-404-not-found/)
 
 
 ### Built With
 
 - [VSCode](https://code.visualstudio.com/)
 - [Figma](https://figma.com)
-- [devchallenges](https://devchallenges.io/)
+- [devChallenges](https://devchallenges.io/)
 
 ## Features
 
@@ -32,5 +32,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@nan8wl](https://{github.com/saramazal})
-- Twitter [@nan8wl](https://{https://twitter.com/mazalspase})
+- GitHub [@saramazal](https://{github.com/saramazal})
+- Twitter [@mazalspace](https://{https://twitter.com/mazalspase})
